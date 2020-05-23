@@ -1,1 +1,1 @@
-#project:Automate detection of different emotions from paragraphs and predict overall emotion
+project: Automate detection of different emotions from paragraphs and predict overall emotion
